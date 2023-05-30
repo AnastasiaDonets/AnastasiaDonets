@@ -14,5 +14,4 @@
 - :man_student: I’m currently learning React Native
 - :muscle: I like to write code
 - :office: Open to work
-- :page_facing_up: Know about my experiance CV
 - :mailbox: How to reach me: :e-mail: donets.dot@gmail.com :link: [LinkedIn](https://www.linkedin.com/in/anastasiia-donets-full-stack-dev/)
