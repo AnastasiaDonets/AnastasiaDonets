@@ -16,7 +16,7 @@
 - :office: Open to work
 - :mailbox: How to reach me: :e-mail: donets.dot@gmail.com :link: [LinkedIn](https://www.linkedin.com/in/anastasiia-donets-full-stack-dev/)
 
-#### My Tech Skills
+## My Tech Skills
 
 <div align="center">
 <img align="center" alt="react" width="40px" src="https://user-images.githubusercontent.com/101519540/221417048-659a47d4-3044-4477-9464-2722a94703d5.svg" />
