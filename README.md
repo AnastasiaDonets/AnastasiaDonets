@@ -25,8 +25,6 @@
 
 <img align="left" alt="reactnative" width="35px" src="https://user-images.githubusercontent.com/101519540/221418897-db214cc9-aaac-49ea-a952-1f44c87ad310.png" />
 
-<img align="left" alt="typescript" width="35px" src="https://user-images.githubusercontent.com/101519540/221417484-2104fcd7-db70-4f52-b0a1-3ea57e536a5a.png" />
-
 <img align="left" alt="javascript" width="27px" src="https://user-images.githubusercontent.com/101519540/221418857-afd2f67e-6307-429c-b532-0e2e3f9fa8c4.png" />
 
 <img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/101519540/221417151-56b9b67e-6ba8-41ca-90a1-41e0c2d6b012.svg" />
@@ -41,13 +39,6 @@
 
 <img align="left" alt="vs" width="35px" src="https://user-images.githubusercontent.com/101519540/221417413-9fe2aeca-2866-4642-87a0-4ccdcd351dac.png" />
 
-<img align="left" alt="ps" width="35px" src="https://user-images.githubusercontent.com/101519540/221417552-a6607de7-d40a-4729-b672-a90a21aeadae.png" />
-
-<img align="left" alt="ai" width="35px" src="https://user-images.githubusercontent.com/101519540/221417574-0aea2548-5a02-4e22-a586-4ec62feb03f0.svg" />
-
-<img align="left" alt="id" width="35px" src="https://user-images.githubusercontent.com/101519540/221417397-760b426a-c5a1-4e05-accd-9c13fab3ccba.svg" />
-
-<img align="left" alt="WordPress" width="35px" src="https://user-images.githubusercontent.com/101519540/221417681-33665576-90b5-460c-be1c-9ef3d60cccbc.svg" />
 </div>  
 <br/>  
 <hr/>
