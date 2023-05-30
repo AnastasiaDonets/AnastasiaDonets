@@ -16,4 +16,4 @@
 - :office: Open to work
 - :mailbox: How to reach me: :e-mail: donets.dot@gmail.com :link: [LinkedIn](https://www.linkedin.com/in/anastasiia-donets-full-stack-dev/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?AnastasiaDonets=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnastasiaDonets&hide=contribs,prs)
