@@ -25,8 +25,7 @@
 
 <img align="center" alt="reactnative" width="40px" src="https://user-images.githubusercontent.com/101519540/221418897-db214cc9-aaac-49ea-a952-1f44c87ad310.png" />
 
-<img align="center" alt="javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-
+<img align="center" alt="javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 <img align="center" alt="HTML5" width="40px" src="https://user-images.githubusercontent.com/101519540/221417151-56b9b67e-6ba8-41ca-90a1-41e0c2d6b012.svg" />
 
