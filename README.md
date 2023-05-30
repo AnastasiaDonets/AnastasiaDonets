@@ -43,6 +43,4 @@
 
 <img align="center" alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-</div>  
-<br/>  
-<hr/>
+</div>
