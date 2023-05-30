@@ -1,6 +1,6 @@
 <div id="header" align="center">
 <h1>Hi there, I'm Anastasiia :wave:</h1>
-<h3>:woman_technologist: Junior Frontend Developer from Calgary, Ab, Canada</h3>
+<h3>:woman_technologist: Junior Frontend Developer from Calgary, AB, Canada</h3>
 </div>
 <!--
 **AnastasiaDonets/AnastasiaDonets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
