@@ -33,11 +33,16 @@
 
 <img align="left" alt="Sass" width="35px" src="https://user-images.githubusercontent.com/101519540/221417191-cd486e32-fb26-4297-8644-5079b8e14f8a.svg" />
 
-<img align="left" alt="webpack" width="35px" src="https://user-images.githubusercontent.com/101519540/221418933-96c9b9bf-dae7-4015-93a2-e77cc8a9bc2f.png" />
+<img align="left" alt="Webpack" width="35px" src="https://user-images.githubusercontent.com/101519540/221418933-96c9b9bf-dae7-4015-93a2-e77cc8a9bc2f.png" />
 
 <img align="left" alt="GitHub" width="35px" src="https://user-images.githubusercontent.com/101519540/221417220-387731ad-8668-4c79-ac4f-e5740610d283.svg" />
 
-<img align="left" alt="vs" width="35px" src="https://user-images.githubusercontent.com/101519540/221417413-9fe2aeca-2866-4642-87a0-4ccdcd351dac.png" />
+<img align="left" alt="VS" width="35px" src="https://user-images.githubusercontent.com/101519540/221417413-9fe2aeca-2866-4642-87a0-4ccdcd351dac.png" />
+
+<img align="left" alt="Bootstrap" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+
+<img align="left" alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
 
 </div>  
 <br/>  
