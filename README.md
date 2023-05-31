@@ -9,7 +9,7 @@
   </a>
   </div>
 
-## :woman*juggling: \_About me*
+## :womanjuggling: _About me_
 
 - :man_student: I’m currently learning React Native
 - :muscle: I like to write code
