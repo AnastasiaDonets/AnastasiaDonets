@@ -1,6 +1,6 @@
 <div id="header" align="center">
 <h1>Hi there, I'm Anastasiia :wave:</h1>
-<h3>:woman_technologist: Junior Frontend Developer from Calgary, AB, Canada</h3>
+<h3>:woman_technologist: Junior Frontend Developer from Calgary, AB, Canada :canada:</h3>
 </div>
 
 <div id="socials" align="center" style="width: 35px">
@@ -9,14 +9,15 @@
   </a>
   </div>
 
-## About me
+## :woman_juggling: About me
 
 - :man_student: I’m currently learning React Native
 - :muscle: I like to write code
 - :office: Open to work
 - :mailbox: How to reach me: :e-mail: donets.dot@gmail.com :link: [LinkedIn](https://www.linkedin.com/in/anastasiia-donets-full-stack-dev/)
+- :earth_americas: The languages I speak are Ukrainian, Russian and English.
 
-## My Tech Skills
+### :computer: My Tech Skills
 
 <div align="center">
 <img align="center" alt="react" width="40px" src="https://user-images.githubusercontent.com/101519540/221417048-659a47d4-3044-4477-9464-2722a94703d5.svg" />
