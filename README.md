@@ -9,7 +9,7 @@
   </a>
   </div>
 
-## :womanjuggling: _About me_
+## :womanjuggling: About me
 
 - :man_student: I’m currently learning React Native
 - :muscle: I like to write code
@@ -17,7 +17,7 @@
 - :mailbox: How to reach me: :e-mail: donets.dot@gmail.com :link: [LinkedIn](https://www.linkedin.com/in/anastasiia-donets-full-stack-dev/)
 - :earth_americas: The languages I speak are Ukrainian, Russian and English.
 
-## :computer: _My Tech skills_
+## :computer: My Tech skills
 
 <div align="center">
 <img align="center" alt="react" width="40px" src="https://user-images.githubusercontent.com/101519540/221417048-659a47d4-3044-4477-9464-2722a94703d5.svg" />
