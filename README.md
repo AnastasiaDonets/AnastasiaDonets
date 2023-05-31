@@ -9,7 +9,7 @@
   </a>
   </div>
 
-## :womanjuggling: About me
+## :woman_juggling: About me
 
 - :man_student: I’m currently learning React Native
 - :muscle: I like to write code
