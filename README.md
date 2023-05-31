@@ -3,7 +3,7 @@
 <h3>:woman_technologist: Junior Frontend Developer from Calgary, AB, Canada :canada:</h3>
 </div>
 
-<div id="socials" align="center" style="width: 35px">
+<div id="socials" align="center" style="width: 40px">
 <a href='https://www.linkedin.com/in/anastasiia-donets-full-stack-dev/'>
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badgelogo=linkedinlogoColor=white"/>
   </a>
