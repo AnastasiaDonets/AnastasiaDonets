@@ -1,10 +1,10 @@
 <div id="header" align="center">
 <h1>Hi there, I'm Anastasiia :wave:</h1>
-<h3>:woman_technologist: Junior Frontend Developer from Calgary, AB, Canada</h3>
+<h3>:woman_technologist: Junior Full Stack Developer from Calgary, AB, Canada</h3>
 </div>
 
 <div id="socials" align="center" style="width: 40px">
-<a href='https://www.linkedin.com/in/anastasiia-donets-full-stack-dev/'>
+<a href='https://www.linkedin.com/in/anastasiia-donets/'>
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badgelogo=linkedinlogoColor=white"/>
   </a>
   </div>
@@ -14,7 +14,7 @@
 - :man_student: I’m currently learning React Native
 - :muscle: I like to write code
 - :office: Open to work
-- :mailbox: How to reach me: :e-mail: donets.dot@gmail.com :link: [LinkedIn](https://www.linkedin.com/in/anastasiia-donets-full-stack-dev/)
+- :mailbox: How to reach me: :e-mail: donets.dot@gmail.com :link: [LinkedIn](https://www.linkedin.com/in/anastasiia-donets/)
 - :earth_americas: The languages I speak are Ukrainian, Russian and English.
 
 ## :computer: My Tech skills
@@ -43,5 +43,9 @@
 <img align="center" alt="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 
 <img align="center" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+
+<img align="center" alt="Node" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
+
+<img align="center" alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
 
 </div>
